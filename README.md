@@ -28,11 +28,13 @@ python3 script1.py
 - **Variables, Loops**
 - **Functions & Modules**
 - **File I/O**
+- **Basic Functions & Hello World from CHapter 3**
 - **Object-Oriented Programming** *(coming soon)*
+
 
 ---
 
 ## 🧠 Author
 
-**Chirayu C.**  
+**Chirayu C.** 
 _Aspiring Robotics Architect | AI Systems Developer | Founder in Training_
