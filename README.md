@@ -20,12 +20,14 @@ assests/-Diagrams,references,notes
 ```bash
 python3 script1.py
 
-##Topics Covered
+##✅ Topics Covered
 ~Variables,Loops
 ~Functions & Modules
 ~File I/O
 ~Object-Oriented Programming(soon)
 
-🧠 Author
+---
+
+## 🧠 Author
 Chirayu C.
 Aspiring Robotics Architect | AI Systems Developer | Founder in Training
