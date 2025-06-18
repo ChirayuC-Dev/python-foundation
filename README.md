@@ -20,3 +20,19 @@ It’s part of my path to mastering Python for robotics, AI, and deep systems de
 
 ```bash
 python3 script1.py
+```
+
+---
+
+###✅ Topics Covered
+- **Variables, Loops**
+- **Functions & Modules**
+- **File I/O**
+- **Object-Oriented Programming** *(coming soon)*
+
+---
+
+## 🧠 Author
+
+**Chirayu C.**  
+_Aspiring Robotics Architect | AI Systems Developer | Founder in Training_
