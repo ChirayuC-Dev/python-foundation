@@ -24,7 +24,7 @@ python3 script1.py
 
 ---
 
-##✅ Topics Covered
+## ✅ Topics Covered
 - **Variables, Loops**
 - **Functions & Modules**
 - **File I/O**
