@@ -20,6 +20,8 @@ assests/-Diagrams,references,notes
 ```bash
 python3 script1.py
 
+---
+
 ##✅ Topics Covered
 ~Variables,Loops
 ~Functions & Modules
